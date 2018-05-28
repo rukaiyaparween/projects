@@ -1,0 +1,32 @@
+@media (min-width: 768px) {
+    .container {
+      width: 900px;
+      margin: 20px auto;
+    }
+  }
+  .horizontalLine hr{
+      border-top: 2px solid #eee;
+  }
+  .top-section input[type=search]{ 
+    position: relative;
+    padding: 3px 0px 3px 6px;
+}
+  .top-section span.glyphicon-search {
+    position: absolute;
+    left: 148px;
+    top: 8px;
+}
+.heading{ 
+    font-size: 28px;
+    color: dodgerblue;
+}
+.linkToDoc{
+    font-size: 14px;
+    color: grey;
+}
+p.description{
+    margin: 25px 0 40px 0;
+    font-size: 14px;
+    color: #000000;
+}
+
